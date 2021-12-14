@@ -1,1 +1,3 @@
-# emerycyusaharena.github.io
+# Emery's Website
+
+This repository contains my website
